@@ -12,4 +12,4 @@
 
 - Switch to user {{username}} and simulate a full login shell:
 
-`su - {{username}}`
+`su - {{username}}` `su -l {{username}}` `su --login {{username}}`
